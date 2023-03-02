@@ -6,8 +6,6 @@ Version: 1.2
 
 ▶ [Example code](https://github.com/OopssSorry/FreeKeySystem/blob/main/README.md#-example-)
 
-▶ [Usage code](https://github.com/OopssSorry/FreeKeySystem/blob/main/README.md#-usage-)
-
 ▶ [Discord server](https://discord.com/invite/enmKTMQvFJ)
 
 ![Screenshot](https://github.com/OopssSorry/FreeKeySystem/blob/main/Screenshot.png)
