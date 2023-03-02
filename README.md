@@ -20,5 +20,5 @@ _G._,_, Discord = 'discord.gg/enmKTMQvFJ'
 	VerifyLink = "https://1.kelprepl.repl.co/verify/your_app_name?verify_key=",-- KEY == game:HttpGet("https://1.kelprepl.repl.co/verify/your_app_name?verify_key="..KEY)
 	SaveKey = true, -- just save key
 	});end),[['..==LOL..']];_()
-	--Below your code
+--Below your code
 ```
