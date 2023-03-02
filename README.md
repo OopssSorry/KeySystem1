@@ -1,8 +1,6 @@
-# Free UI Key System
+# Key System
 
 **Simple convenient free key system**
-
-Version: 1.2
 
 ▶ [Example code](https://github.com/OopssSorry/KeySystem1/blob/main/README.md#-example-)
 
