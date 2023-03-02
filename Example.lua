@@ -1,4 +1,4 @@
-_G._,_, Discord = 'discord.gg/enmKTMQvFJ'
+_G._,_, Discord = 'discord.gg/ZcjMV235Zq'
 
 ,(function() loadstring(game:HttpGet("https://oopshub.vercel.app/libs/KeySystem1.lua"))():KeySystem({
 --[[
