@@ -4,11 +4,11 @@
 
 Version: 1.2
 
-▶ [Example code](https://github.com/OopssSorry/FreeKeySystem/blob/main/README.md#-example-)
+▶ [Example code](https://github.com/OopssSorry/KeySystem1/blob/main/README.md#-example-)
 
 ▶ [Discord server](https://discord.com/invite/enmKTMQvFJ)
 
-![Screenshot](https://github.com/OopssSorry/FreeKeySystem/blob/main/Screenshot.png)
+![Screenshot](https://github.com/OopssSorry/KeySystem1/blob/main/Screenshot.png)
 
 ##	▶ Example ◀
 ```lua
