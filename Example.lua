@@ -7,7 +7,7 @@ _G._,_, Discord = 'discord.gg/enmKTMQvFJ'
 		Discord get key links support
 	
 		Settings:
-]]Name = "your_app_name", -- put here name(For save key file name)
+]]	Name = "your_app_name", -- put here name(For save key file name)
 	GetKeyLink = "https://1.kelprepl.repl.co/getkey/your_app_name", -- you can put here discord link
 	VerifyLink = "https://1.kelprepl.repl.co/verify/your_app_name?verify_key=",-- KEY == game:HttpGet("https://1.kelprepl.repl.co/verify/your_app_name?verify_key="..KEY)
 	SaveKey = true, -- just save key
