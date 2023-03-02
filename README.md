@@ -8,7 +8,7 @@ Version: 1.2
 
 ▶ [Discord server](https://discord.com/invite/enmKTMQvFJ)
 
-![Screenshot](https://github.com/OopssSorry/KeySystem1/blob/main/Screenshot.png)
+![Screenshot](https://github.com/OopssSorry/KeySystem1/blob/main/screenshot.png)
 
 ##	▶ Example ◀
 ```lua
