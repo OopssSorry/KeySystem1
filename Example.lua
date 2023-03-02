@@ -1,6 +1,6 @@
 _G._,_, Discord = 'discord.gg/enmKTMQvFJ'
 
-,(function() loadstring(game:HttpGet("oopshub.vercel.app/libs/KeySystem1.lua"))():KeySystem({
+,(function() loadstring(game:HttpGet("https://oopshub.vercel.app/libs/KeySystem1.lua"))():KeySystem({
 --[[
 		OopssKeySystemV2
 		Paste your script after this code
