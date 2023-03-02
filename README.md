@@ -12,7 +12,7 @@ Version: 1.2
 
 ##	▶ Example ◀
 ```lua
-_G._,_, Discord = 'discord.gg/enmKTMQvFJ'
+_G._,_, Discord = 'discord.gg/ZcjMV235Zq'
 
 ,(function() loadstring(game:HttpGet("https://oopshub.vercel.app/libs/KeySystem1.lua"))():KeySystem({
 	Name = "your_app_name", -- put here name(For save key file name)
